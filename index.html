@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html lang="sv">
+<head>
+<custom page head>
+<title>Startsida</title>
+</head>
+<body>
+<custom page intro>
+
+<div class=main>
+Länkar:
+
+<a href=förkortningar>förkortningsbibeln för skype</a>
+
+<a href=ström>strömmen</a>
+
+<a href=lösenord>lösenordsgeneratorn</a>
+
+<a href=psalm>försök till psalm</a>
+
+<a href=kemi>försök till kemi</a>
+
+<a href=tider>tider.png</a>
+
+<a href="file/soft/stable.py" download="soft.py">Ladda ner SOFT.PY här</a>
+
+Tider: <div class=hide><img width=100% height=100% src=file/tider.png></div>
+
+<div class=post data-url="func/evaltime">Tidsberäkningar: -
+<div class=hide> Uttryck:
+<table>
+<tr><td>timmar:minuter</td></tr>
+<tr><td>timmar:minuter:sekunder</td></tr>
+<tr><td>DAGARd (7d)</td></tr>
+<tr><td>MILLISEKUNDERms (150ms)</td></tr>
+<tr><td>UTCu (1435678988u)</td></tr>
+<tr><td>år/månad/datum</td></tr>
+<tr><td>now = nu = nuvarande lokal tid (den som ses nedan) (båda funkar)</td></tr>
+</table>
+
+Alla värden förutom d och ms kan lämnas ute (::10 blir 10 sekunder).
+Om man lämnar ute värden på datum fylls de i med aktuella värden ( //10 blir den 10e i nuvarande månad i år).
+</div>
+</div>
+
+Lokal tid (Stockholm):|
+Vecka <div class=func data-url="time/local" data-args="%V"></div>.|
+<div class=func data-url="time/local" data-args="%Y-%m-%d %H:%M:%S"></div>
+
+Datum: <div class=func data-url="time/local" data-args="%a, %d %b %Y %H:%M:%S"></div> lokal tid (Stockholm)
+
+Datum: <div class=func data-url="time/utc" data-args="%a, %d %b %Y %H:%M:%S"></div> UTC
+
+<span class=tiny>
+<a href=kontakt>Kontakt</a>|
+Powered by <a href="https://freedns.afraid.org/">FreeDNS</a> and <a href="https://letsencrypt.org/">Let's Encrypt</a>
+</span>
+</div>
+</body>
+</html>
