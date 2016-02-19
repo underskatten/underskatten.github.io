@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<html lang="sv">
+<head>
+<custom page head>
+<title>CA-rekord</title>
+</head>
+<body>
+<custom page intro>
+
+<div class=main>
+Här är rekordlistan för standardlevlarna i Chess Adventures.
+
+<table class=table_nice_short>
+<tr>
+<th>Level</th>
+<th>Namn</th>
+<th>Rekord</th>
+<th>Skapare</th>
+<th>JT</th>
+<th>JÖ</th>
+<th>PÖ</th>
+<th>JE</th>
+</tr><tr><td>LEVEL_1</td><td>lonely</td><td>4</td><td>Joel Ö</td>
+</tr><tr><td>LEVEL_2</td><td>bodyguards</td><td>13</td><td>Joel Ö</td>
+</tr><tr><td>LEVEL_3</td><td>weapons</td><td>21</td><td>Joel Ö</td>
+</tr><tr><td>LEVEL_4</td><td>colored companions</td><td>30</td><td>Joel Ö</td>
+</tr><tr><td>LEVEL_5</td><td>the heel</td><td>44</td><td>Joel Ö</td>
+</tr><tr><td>LEVEL_6</td><td>the floor is lava</td><td>22</td><td>Joel Ö</td>
+</tr><tr><td>LEVEL_7</td><td>dangerous usage</td><td>51</td><td>Joel Ö</td>
+</tr><tr><td>LEVEL_8</td><td>stronger shades of gray</td><td>35</td><td>Joel Ö</td>
+</tr><tr><td>LEVEL_9</td><td>moving up</td><td>51</td><td>Joel Ö</td><th/><th/><td>52</td>
+</tr><tr><td>LEVEL_10</td><td>web of power</td><td>65</td><td>Joel Ö</td><td>?</td><th/><td>?</td>
+</tr><tr><td>LEVEL_11</td><td>static but dangerous</td><td>50</td><td>Jonathan</td><td>-</td>
+</tr><tr><td>LEVEL_12</td><td>magic metal mover</td><td>66</td><td>Joel Ö</td><td>98</td><th/><td>69</td>
+</tr><tr><td>LEVEL_13</td><td>repetitive pull</td><td>98</td><td>Joel Ö</td><td>139</td><th/><td>101</td>
+</tr><tr><td>LEVEL_14</td><td>enter the castle</td><td>60</td><td>Joel Ö</td><td>88</td><th/><td>66</td>
+</tr><tr><td>LEVEL_15</td><td>strength in brightness</td><td>47</td><td>Joel Ö</td><th/><th/><td>?</td>
+</tr><tr><td>LEVEL_16</td><td>decapitated protection</td><td>49</td><td>Joel Ö</td><td>61</td><th/><td>?</td>
+</tr><tr><td>LEVEL_17</td><td>hole in the everywhere</td><td>35</td><td>Joel Ö</td><th/><th/><td>?</td>
+</tr><tr><td>LEVEL_18</td><td>no-way glass</td><td>44</td><td>Joel Ö</td><th/><th/><td>?</td>
+</tr><tr><td>LEVEL_19</td><td>timing ring of fire</td><td>35</td><td>Jonathan</td><td>-</td><th/><td>-</td>
+</tr><tr><td>LEVEL_20</td><td>island of defense</td><td>78</td><td>Joel Ö</td><td>86</td><th/><td>83</td>
+</tr><tr><td>LEVEL_21</td><td>horse logic</td><td>25</td><td>Joel Ö</td><td>31</td><th/><td>?</td>
+</tr><tr><td>LEVEL_22</td><td>hidden behind walls</td><td>45</td><td>Joel Ö</td><th/><th/><td>46</td>
+</tr><tr><td>LEVEL_23</td><td>teamwork</td><td>35</td><td>Joel Ö</td><th/><th/><td>38</td>
+</tr><tr><td>LEVEL_24</td><td>slow response</td><td>45</td><td>Joel Ö</td><td>46</td><th/><td>54</td>
+</tr><tr><td>LEVEL_25</td><td>power-metal</td><td>39</td><td>Joel Ö</td><td>40</td>
+</tr><tr><td>LEVEL_26</td><td>despite differences</td><td>104</td><td>Jonathan</td><td>-</td><th/><td>?</td>
+</tr><tr><td>LEVEL_27</td><td>tax obligation</td><td>63</td><td>Joel Ö</td><td>-</td><th/><td>?</td>
+</tr><tr><td>LEVEL_28</td><td>tearing bridges</td><td>69</td><td>Joel Ö</td><td>-</td><th/><td>300</td>
+</tr><tr><td>LEVEL_29</td><td>idiots among us</td><td>70</td><td>Joel Ö</td><td>-</td><th/><td>?</td>
+</tr><tr><td>LEVEL_30</td><td>impossibilities</td><td>44</td><td>Joel Ö</td><td>-</td><th/><td>-</td>
+</tr><tr><td>LEVEL_31</td><td>slow killing</td><td>40</td><td>Jonathan</td><td>70</td><th/><td>?</td>
+</tr><tr><td>LEVEL_32</td><td>hall of mirrors</td><td>53</td><td>Joel Ö</td><td>56</td><th/><td>-</td>
+</tr><tr><td>LEVEL_33</td><td>pretty at first</td><td>57</td><td>Joel Ö</td><th/><th/><td>-</td>
+</tr><tr><td>LEVEL_34</td><td>spot the difference</td><td>28</td><td>Joel Ö</td><td>41</td><th/><td>-</td>
+</tr><tr><td>LEVEL_35</td><td>past the guards</td><td>49</td><td>Jonathan</td><td>62</td><th/><td>-</td>
+</tr><tr><td>LEVEL_36</td><td>sole wall of hiding</td><td>46</td><td>Jonathan</td><td>68</td><th/><td>-</td>
+</tr><tr><td>LEVEL_37</td><td>remote attack</td><td>66</td><td>Jonathan</td><th/><th/><td>-</td>
+</tr><tr><td>LEVEL_38</td><td>recolor</td><td>40</td><td>Jonathan</td><td>43</td><th/><td>-</td>
+</tr><tr><td>LEVEL_39</td><td>hiding true colors</td><td>30</td><td>Joel Ö</td><th/><th/><td>-</td>
+</tr><tr><td>LEVEL_40</td><td>the war is on</td><td>96</td><td>Joel Ö</td><td>-</td><td>102</td><td>-</td>
+</tr><tr><td>LEVEL_41</td><td>smooth moves</td><td>34</td><td>Jonathan</td><th/><th/><td>-</td>
+</tr><tr><td>LEVEL_42</td><td></td><td>117</td><td>Joel Ö</td><td>-</td><th/><td>-</td>
+</tr><tr><th/><th>Inofficiella levlar</th>
+</tr><tr><td>OLD_2</td><td>cannon march</td><td>71</td><td>Joel T</td><th/><th/><td>-</td>
+</tr><tr><td>OLD_4</td><td>almost equal</td><td>88</td><td>Joel Ö</td><td>-</td><th/><td>-</td>
+</tr><tr><td>OLD_5</td><td>squared ice</td><td>28</td><td>Joel Ö</td><th/><th/><td>-</td>
+</tr><tr><td>OLD_7</td><td>ice clones</td><td>29</td><td>Peter</td><td>37</td><th/><td>-</td>
+</tr><tr><td>OLD_9</td><td>moving bridge</td><td>20</td><td>Joel Ö</td><td>-</td><th/><td>-</td>
+</tr><tr><td>OLD_11</td><td>firewall</td><td>92</td><td>Joel Ö</td><td>-</td><th/><td>-</td>
+</tr><tr><td>PTC_4</td><td>passing by</td><td>44</td><td>Joel Ö</td><th/><td>47</td><td>-</td>
+</tr>
+</table>
+
+Current masters:
+
+</div>
+<img width=100% src=file/master.png></img>
+<div class="main center">
+Jonathan
+</div>
+</body>
+</html>
